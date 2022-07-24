@@ -22,7 +22,7 @@ setup(
         
         keywords=['telegram', 'client', 'simple', 'webscraping'],
         classifiers= [
-            "Development Status :: 1 - Alpha",
+            "Development Status :: 3 - Alpha",
             "Programming Language :: Python :: 3",
             "Operating System :: MacOS :: MacOS X",
             "Operating System :: Microsoft :: Windows",
