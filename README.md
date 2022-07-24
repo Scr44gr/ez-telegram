@@ -4,7 +4,7 @@ A minimal client to get messages from telegram channels using webscraping.
 
 ## Installation 📝
 ```bash
-pip install git+https://github.com/Scr44gr/ez-telegram.git@main
+pip install ez-telegram
 ```
 
 ## Usage 📖
