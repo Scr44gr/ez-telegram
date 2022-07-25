@@ -48,7 +48,7 @@ class EzClient:
         messages = document.find_all('div', class_='tgme_widget_message_wrap js-widget_message_wrap')
 
         for message in messages:
-            yield Message(str(message)).text.replace('\n', '')
+            yield Message(str(message)).text
 
 class ChannelNotFoundError(Exception):
     pass
