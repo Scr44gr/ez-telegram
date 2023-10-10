@@ -4,7 +4,7 @@ from pathlib import Path
 this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
-VERSION = '0.0.1' 
+VERSION = '0.1.0' 
 DESCRIPTION = 'Minimalist client to get messages from public telegram channels, without tokens/sessions.'
 LONG_DESCRIPTION = long_description
 
